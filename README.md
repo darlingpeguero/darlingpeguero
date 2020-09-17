@@ -6,3 +6,6 @@
 -   📫  How to reach me:  Darling.Peguero1@outlook.com
 -   ⚡  Fun fact: I love to travel
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=darlingpeguero&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlingpeguero&theme=dracula&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=darlingpeguero&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats" />
