@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-
-
-
-
-- 🔭 I’m currently working on my ASP.NET MVC Online Store App. 
-- 🌱 I’m currently learning SQL
-- 📫 How to reach me: Darling.Peguero@outlook.com
-
+-   🔭  I’m currently working on  ASP.NET Core MVC Online Store Application
+-   🌱  I’m currently learning more about Azure
+-   💬  Ask me about what I have learned in the MSSA Program. 
+-   📫  How to reach me:  Darling.Peguero1@outlook.com
+-   ⚡  Fun fact: I love to travel
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=darlingpeguero&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats" />
