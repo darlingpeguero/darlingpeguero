@@ -9,9 +9,6 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlingpeguero&theme=light&hide_langs_below=1" />
 </a>
- 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=darlingpeguero&show_icons=true&theme=light&line_height=27" alt="Darling's github stats"/>
-</a>
 
 
 
