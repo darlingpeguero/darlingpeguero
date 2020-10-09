@@ -17,4 +17,3 @@
 
 
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darling-peguero/)](https://www.linkedin.com/in/darling-peguero/)
-[![GitHub darlingpeguero](https://img.shields.io/github/followers/darlingpeguero?label=follow&style=social)](https://github.com/darlingpeguero)
